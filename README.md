@@ -127,7 +127,7 @@ This course is composed of four modules, each module with its own theme.
 | 02 | Dev Tools | Install/Configure Git and VS Code | [Ubuntu Server 22.04 ISO](https://releases.ubuntu.com/22.04/ubuntu-22.04.1-live-server-amd64.iso) |
 | 03 | Issue tracking system | Resolve & Track an Issue with Spiceworks | [ops201-class03.ova](https://www.icloud.com/iclouddrive/09fA25YJMhEBcL8MNPatUKwaQ#ops201-class03) - 7.84GB |
 | 04 | Troubleshooting Techniques | Applied Ticket Resolution | [ops201-class04.ova](https://www.icloud.com/iclouddrive/0mUDzBeoSUSyY3eS-bOEzmwug#ops201-class04) - 10.7GB |
-| 05 | Windows Command Line Tools | Resolve issues using only the terminal | [ops201-class05.ova](https://www.icloud.com/iclouddrive/02iJh59xJHH9X9Y08cCvJe-6w#ops201-class05) - 12.8GB |
+| 05 | Windows Command Line Tools | Resolve issue and use CLI utilities | [ops201-class05.ova](https://www.icloud.com/iclouddrive/02iJh59xJHH9X9Y08cCvJe-6w#ops201-class05) - 12.8GB |
 
 ### Module 2 - Windows Diagnostics
 

@@ -123,7 +123,7 @@ This course is composed of four modules, each module with its own theme.
 
 | Class # | Topic | Lab | Download |
 |-----------------|-----------|----------|----------|
-| 01 | Backup Your System | Backup/Import from .ova |  |
+| 01 | Backup Your System | Backup/Import from .ova | [Windows 10 ISO](https://www.icloud.com/iclouddrive/01azgWsJOfzZaBbAj-G3sLWTg#Windows10) - 4.79 GB |
 | 02 | Dev Tools | Install/Configure Git and VS Code | [Ubuntu Server 22.04 ISO](https://releases.ubuntu.com/22.04/ubuntu-22.04.1-live-server-amd64.iso) |
 | 03 | Issue tracking system | Resolve & Track an Issue with Spiceworks | [ops201-class03.ova](https://www.icloud.com/iclouddrive/09fA25YJMhEBcL8MNPatUKwaQ#ops201-class03) - 7.84GB |
 | 04 | Troubleshooting Techniques | Applied Ticket Resolution | [ops201-class04.ova](https://www.icloud.com/iclouddrive/0mUDzBeoSUSyY3eS-bOEzmwug#ops201-class04) - 10.7GB |

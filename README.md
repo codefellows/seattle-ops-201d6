@@ -143,9 +143,9 @@ This course is composed of four modules, each module with its own theme.
 
 | Class # | Topic | Lab | Download |
 |-----------------|-----------|----------|----------|
-| 11 | Data Restoration, Startup Repair, and Secure Disposal | Secure data repair and deletion | [ops201-class11.ova](https://www.icloud.com/iclouddrive/0WDQvKr5BEAVKda5zU4hnMqfA#ops201-class11-v2) - 10.3GB |
+| 11 | Data Restoration, Startup Repair, and Secure Disposal | Secure data repair and deletion | [ops201-class11.ova](https://www.icloud.com/iclouddrive/0WDQvKr5BEAVKda5zU4hnMqfA#ops201-class11-v2) - 10.3GB<br />[Darik's Boot and Nuke (DBAN) ISO file](https://sourceforge.net/projects/dban/files/dban/dban-2.3.0/dban-2.3.0_i586.iso/download) - 15.9 MB |
 | 12 | Virtualizing a Router with pfSense | Deploy pfSense to Virtualbox | [pfSense .iso file](https://www.pfsense.org/download/) |
-| 13 | Cloud Virtualization With AWS | AWS Lightsail - VM | [EaseUS Recovery Tool](https://www.easeus.com/datarecoverywizard/free-data-recovery-software.htm) and [Darik's Boot and Nuke (DBAN) ISO file](https://sourceforge.net/projects/dban/files/dban/dban-2.3.0/dban-2.3.0_i586.iso/download) - 15.9 MB |
+| 13 | Cloud Virtualization With AWS | AWS Lightsail - VM | None |
 | 14 | Malware Remediation Tools and Techniques | Diagnose, Fix Malware on PC | [ops201-class14.ova](https://www.icloud.com/iclouddrive/0iOFfu301yYZdLNKhnLV6fRVg#ops201-class14) - 6.41GB |
 | 15 | Review | Ops 301 Entrance Exam |  |
 

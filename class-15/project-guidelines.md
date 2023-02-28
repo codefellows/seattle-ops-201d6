@@ -173,19 +173,18 @@ Components of the presentation must include:
   * All team members must present an equal share of the live technical demonstrations.
   * The presentation consists of a full provisioning demonstration of a computer system, as well as key operations.
     * A. OS provisioning
-      * A1. Demonstrate tool-based provisioning of the required OS.
-        * You may not demonstrate standard OEM deployment procedures, but must incorporate a new tool of your choosing into the OS provisioning procedure. Examples of such a tool for Windows include [Windows Autopilot](https://docs.microsoft.com/en-us/mem/autopilot/), [Microsoft Deployment Toolkit](https://www.microsoft.com/en-us/download/details.aspx?id=54259), and [PXE Boot](https://docs.microsoft.com/en-us/troubleshoot/mem/configmgr/understand-pxe-boot). Ideas for Linux can be found on [7 Best Free Linux Server Provisioning Tools](https://www.linuxlinks.com/serverprovisioning/) or you might also consider [PXE Boot](https://docs.microsoft.com/en-us/troubleshoot/mem/configmgr/understand-pxe-boot).
+      * A1. Demonstrate customization and provisioning of the required OS.
         * Skip processes that take a long time to complete. Remember, your demo time is limited.
     * B. System operations
       * B1. Demonstrate user provisioning of a single end-user (non-administrator account).
       * B2. Demonstrate how remote connectivity will be established to the system by both your MSP and its end user.
-        * The end user must have remote access to a user profile with the correct level of permissions (non-administrator). Your MSP must also have remote access to a user profile, however the MSP's will have administrator permissions.
-      * B3. Demonstrate how the most important software application will be provisioned and supported by the MSP.
+        * Users must have remote access to a accounts with the correct level of permissions. For access by MSP employees, Administrator access is appropriate, while it may not be for customer employees.
+      * B3. Demonstrate how the most important software applications and network resource features will be provisioned and supported by the MSP.
+        * For example: email clients, shared network drives, cloud-based resources.
       * B4. Demonstrate a single file or folder data backup and restoration procedure.
         * How will your MSP mitigate the risk of data loss on this new computer system? Your presentation should mention as well how you would perform a baremetal restoration if the OS were to be rendered inoperable.
     * C. Task automation
-      * C1. The presentation must include a live technical demonstration of a shell scripting solution that automates repetitive or tedious processes.
-        * The team must create and submit at minimum one complete, working, and tested shell script.
+      * C1. The presentation must include a live technical demonstration of a solution that automates repetitive or tedious processes.
 
 ## Deliverables
 
